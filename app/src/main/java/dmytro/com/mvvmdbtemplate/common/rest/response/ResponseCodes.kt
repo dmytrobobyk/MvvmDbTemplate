@@ -1,4 +1,4 @@
-package dmytro.com.mvvmdbtemplate.common.rest.reseponse
+package dmytro.com.mvvmdbtemplate.common.rest.response
 
 const val SUCCESS = "success"
 const val HTTP = "http"

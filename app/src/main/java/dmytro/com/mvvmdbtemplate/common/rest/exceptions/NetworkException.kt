@@ -1,6 +1,6 @@
 package dmytro.com.mvvmdbtemplate.common.rest.exceptions
 
-import dmytro.com.mvvmdbtemplate.common.rest.reseponse.*
+import dmytro.com.mvvmdbtemplate.common.rest.response.*
 import retrofit2.HttpException
 import java.io.IOException
 import java.net.SocketTimeoutException

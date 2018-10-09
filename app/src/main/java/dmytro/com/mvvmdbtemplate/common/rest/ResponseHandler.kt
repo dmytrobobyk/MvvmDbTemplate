@@ -1,9 +1,8 @@
 package dmytro.com.mvvmdbtemplate.common.rest
 
 import dmytro.com.mvvmdbtemplate.common.rest.exceptions.NetworkException
-import dmytro.com.mvvmdbtemplate.common.rest.reseponse.BaseResponse
+import dmytro.com.mvvmdbtemplate.common.rest.response.BaseResponse
 import io.reactivex.functions.Function
-import dmytro.com.mvvmdbtemplate.common.rest.reseponse.*
 
 class ResponseHandler<R : BaseResponse>(private val url: String) : Function<R, R> {
 

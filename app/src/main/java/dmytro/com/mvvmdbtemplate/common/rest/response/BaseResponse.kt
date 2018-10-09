@@ -1,4 +1,4 @@
-package dmytro.com.mvvmdbtemplate.common.rest.reseponse
+package dmytro.com.mvvmdbtemplate.common.rest.response
 
 import com.google.gson.annotations.SerializedName
 

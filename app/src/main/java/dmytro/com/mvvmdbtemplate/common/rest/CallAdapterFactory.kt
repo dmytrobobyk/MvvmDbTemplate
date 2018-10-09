@@ -1,7 +1,7 @@
 package dmytro.com.mvvmdbtemplate.common.rest
 
 import dmytro.com.mvvmdbtemplate.common.rest.exceptions.NetworkException
-import dmytro.com.mvvmdbtemplate.common.rest.reseponse.BaseResponse
+import dmytro.com.mvvmdbtemplate.common.rest.response.BaseResponse
 import io.reactivex.Single
 import retrofit2.Call
 import retrofit2.CallAdapter
